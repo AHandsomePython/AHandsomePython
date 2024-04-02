@@ -55,15 +55,15 @@
 </div>
 
 <h3> ⚡ &nbsp;My Projects</h3>
-<h4>Project 1: MSMedCap</h4>
+<h4>Project 1: Multimodal Applications in Ultrasound Imaging Diagnosis</h4>
   <p>
-    Proposed a novel model named MSMedCap based on the BLIP2, a classical multimodality model. We added a parallel Segment Anything Encoder at the vision encoder side to capture fine-grained information from medical images and generate more precise diagnoses. The paper named SAM-GUIDED ENHANCED FINE-GRAINED ENCODING WITH MIXED SEMANTIC LEARNING FOR MEDICAL IMAGE CAPTIONING, is accepted by ICASSP 2024, co-first authorship. An arxiv link is attached: <a href="https://arxiv.org/abs/2311.01004">https://arxiv.org/abs/2311.01004</a>.
+    Proposed a novel model named MSMedCap based on the BLIP2, a classical multimodality model. We added a parallel Segment Anything Encoder at the vision encoder side to capture fine-grained information from medical images and generate more precise diagnoses. The paper named SAM-GUIDED ENHANCED FINE-GRAINED ENCODING WITH MIXED SEMANTIC LEARNING FOR MEDICAL IMAGE CAPTIONING, is published on ICASSP 2024, co-first authorship. An arxiv link is attached: <a href="https://arxiv.org/abs/2311.01004">https://arxiv.org/abs/2311.01004</a>.
   </p>
   <p>
     <a href="https://github.com/AHandsomePython/MSMedCap">MSMedCap GitHub Repository</a>
   </p>
 
-  <h4>Project 2: ECE391</h4>
+  <h4>Project 2: Operating System Kernel Design</h4>
   <p>
     Coursework of UIUC’s ECE391(Computer Architecture). We designed an operating system with functions including Scheduling, Dynamic Memory Allocation, Graphical User Interface, Signals, Dynamic File System, Mouse Driver, Sound Card Driver, and so on. The project gained the champion in the final competition of the course.
   </p>

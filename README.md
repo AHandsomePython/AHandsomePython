@@ -33,7 +33,7 @@
   <span align="left">
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
       <a href="https://github.com/AHandsomePython" target="_blank">
-        <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=Decade-qiu">
+        <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=Wejie Liang">
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  

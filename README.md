@@ -57,7 +57,7 @@
 <h3> ⚡ &nbsp;My Projects</h3>
 <h4>Project 1: Multimodal Applications in Ultrasound Imaging Diagnosis</h4>
   <p>
-    Proposed a novel model named MSMedCap based on the BLIP2, a classical multimodality model. We added a parallel Segment Anything Encoder at the vision encoder side to capture fine-grained information from medical images and generate more precise diagnoses. The paper named SAM-GUIDED ENHANCED FINE-GRAINED ENCODING WITH MIXED SEMANTIC LEARNING FOR MEDICAL IMAGE CAPTIONING, is published on ICASSP 2024, co-first authorship. An arxiv link is attached: <a href="https://arxiv.org/abs/2311.01004">https://arxiv.org/abs/2311.01004</a>.
+    Proposed a novel model named MSMedCap based on the BLIP2, a classical multimodality model. We added a parallel Segment Anything Encoder at the vision encoder side to capture fine-grained information from medical images and generate more precise diagnoses. The paper is published on ICASSP 2024, co-first authorship. Link to the paper is attached: <a href="https://ieeexplore.ieee.org/document/10446878">SAM-GUIDED ENHANCED FINE-GRAINED ENCODING WITH MIXED SEMANTIC LEARNING FOR MEDICAL IMAGE CAPTIONING</a>.
   </p>
   <p>
     <a href="https://github.com/AHandsomePython/MSMedCap">MSMedCap GitHub Repository</a>
@@ -70,6 +70,8 @@
   <p>
     <a href="https://github.com/AHandsomePython/ece391">ECE391 GitHub Repository</a>
   </p>
+<img src="https://github-readme-stats.vercel.app/api?username=AHandsomePython&show_icons=true&count_private=true&hide=prs&theme=default_repocard" alt="GitHub Stats">
+
 
 
 

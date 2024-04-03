@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-MySQL-DC143C?style=flat-square&logo=mysql&logoColor=black" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-MongoDB-808080?style=flat-square&logo=mongodb&logoColor=green" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Neo4j-FFA500?style=flat-square&logo=neo4j&logoColor=black" style="display: inline-block;" /> 
-    <img src="https://img.shields.io/badge/-Unity-2F4F4F?style=flat-square&logo=unity&logoColor=black" style="display: inline-block;" /> 
+    <img src="https://img.shields.io/badge/-Unity-8B8B00?style=flat-square&logo=unity&logoColor=black" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-ROS-FFC0CB?style=flat-square&logo=ros&logoColor=black" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Godot-1E90FF?style=flat-square&logo=godotengine&logoColor=white" style="display: inline-block;" /> 
   </div>

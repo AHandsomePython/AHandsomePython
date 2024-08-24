@@ -76,10 +76,12 @@
    Coursework of ZJU’s ECE445 (Senior Design). We designed a clothing folding machine, which is able to detect clothes, grab clothes and fold clothes. We use Mask-RCNN as our computer vision model to detect clothes and build our own training dataset. We also design an open-loop system with inverse kinematics method to drive the robot arm to grab clothes. Finally, clothes will be folded by an automatic folding machine. The video below shows how the robot works. 
   </p>
 <!-- insert a video -->
-<video width="100%" controls>
-  <source src="video/video1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[点击这里观看视频](video/video1.mp4)
+
+<img src="https://github-readme-stats.vercel.app/api?username=AHandsomePython&show_icons=true&count_private=true&hide=prs&theme=default_repocard" alt="GitHub Stats">
+
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=AHandsomePython&show_icons=true&count_private=true&hide=prs&theme=default_repocard" alt="GitHub Stats">
 
 

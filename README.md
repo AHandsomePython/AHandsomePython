@@ -73,12 +73,11 @@
 
   <h4>Project 3: Smart Laundry Foldbot </h4>
   <p>
-   Coursework of ZJU’s ECE445 (Senior Design). We designed a clothing folding machine, which is able to detect clothes, grab clothes and fold clothes. We use Mask-RCNN as our computer vision model to detect clothes and build our own training dataset. We also design an open-loop system with inverse kinematics method to drive the robot arm to grab clothes. Finally, clothes will be folded by an automatic folding machine. The video below shows how the robot works. 
+   Coursework of ZJU’s ECE445 (Senior Design). We designed a clothing folding machine, which is able to detect clothes, grab clothes and fold clothes. We use Mask-RCNN as our computer vision model to detect clothes and build our own training dataset. We also design an open-loop system with inverse kinematics method to drive the robot arm to grab clothes. Finally, clothes will be folded by an automatic folding machine. The video below shows how the robot works. https://www.youtube.com/watch?v=VXa4wbYny8w 
   </p>
 <!-- insert a video -->
 
 
-<video src="video/video1.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 
 
